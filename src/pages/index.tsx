@@ -102,7 +102,7 @@ export default function HomePage() {
               className="mb-5 flex items-center gap-3 text-sm font-bold tracking-[0.18em] text-secondary"
             >
               <span className="h-px w-12 bg-secondary" />
-              <span>BOOT SEQUENCE COMPLETE</span>
+              <span>LEVEL ONE: UNLOCKED</span>
             </motion.p>
             <motion.h1
               id="hello-world-title"
